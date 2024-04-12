@@ -1,16 +1,2 @@
-﻿  CmdDrawPixel.cpp
-  CmdSetColor.cpp
-  CmdSetResolution.cpp
-  CmdVarFloat.cpp
-  CommandDictionary.cpp
-  Graphics.cpp
-  PixEditor.cpp
-  Rasterizer.cpp
-  ScriptParser.cpp
-  TextEditor.cpp
-  VariableCache.cpp
-  Viewport.cpp
-  WinMain.cpp
-  Generating Code...
-     Creating library C:\Users\ilavr\Downloads\Pix\x64\Debug\Pix.lib and object C:\Users\ilavr\Downloads\Pix\x64\Debug\Pix.exp
-  Pix.vcxproj -> C:\Users\ilavr\Downloads\Pix\x64\Debug\Pix.exe
+﻿  CommandDictionary.cpp
+  Pix.vcxproj -> C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\x64\Debug\Pix.exe

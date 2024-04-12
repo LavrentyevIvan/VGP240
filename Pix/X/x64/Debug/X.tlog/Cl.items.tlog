@@ -1,22 +1,22 @@
-C:\Users\ilavr\Downloads\Pix\X\Src\AudioSystem.cpp;C:\Users\ilavr\Downloads\Pix\X\x64\Debug\AudioSystem.obj
-C:\Users\ilavr\Downloads\Pix\X\Src\Camera.cpp;C:\Users\ilavr\Downloads\Pix\X\x64\Debug\Camera.obj
-C:\Users\ilavr\Downloads\Pix\X\Src\Config.cpp;C:\Users\ilavr\Downloads\Pix\X\x64\Debug\Config.obj
-C:\Users\ilavr\Downloads\Pix\X\Src\ConstantBuffer.cpp;C:\Users\ilavr\Downloads\Pix\X\x64\Debug\ConstantBuffer.obj
-C:\Users\ilavr\Downloads\Pix\X\Src\Font.cpp;C:\Users\ilavr\Downloads\Pix\X\x64\Debug\Font.obj
-C:\Users\ilavr\Downloads\Pix\X\Src\GraphicsSystem.cpp;C:\Users\ilavr\Downloads\Pix\X\x64\Debug\GraphicsSystem.obj
-C:\Users\ilavr\Downloads\Pix\X\Src\Gui.cpp;C:\Users\ilavr\Downloads\Pix\X\x64\Debug\Gui.obj
-C:\Users\ilavr\Downloads\Pix\X\Src\InputSystem.cpp;C:\Users\ilavr\Downloads\Pix\X\x64\Debug\InputSystem.obj
-C:\Users\ilavr\Downloads\Pix\X\Src\PixelShader.cpp;C:\Users\ilavr\Downloads\Pix\X\x64\Debug\PixelShader.obj
-C:\Users\ilavr\Downloads\Pix\X\Src\Precompiled.cpp;C:\Users\ilavr\Downloads\Pix\X\x64\Debug\Precompiled.obj
-C:\Users\ilavr\Downloads\Pix\X\Src\RenderTarget.cpp;C:\Users\ilavr\Downloads\Pix\X\x64\Debug\RenderTarget.obj
-C:\Users\ilavr\Downloads\Pix\X\Src\SimpleDraw.cpp;C:\Users\ilavr\Downloads\Pix\X\x64\Debug\SimpleDraw.obj
-C:\Users\ilavr\Downloads\Pix\X\Src\SoundEffectManager.cpp;C:\Users\ilavr\Downloads\Pix\X\x64\Debug\SoundEffectManager.obj
-C:\Users\ilavr\Downloads\Pix\X\Src\SpriteRenderer.cpp;C:\Users\ilavr\Downloads\Pix\X\x64\Debug\SpriteRenderer.obj
-C:\Users\ilavr\Downloads\Pix\X\Src\Texture.cpp;C:\Users\ilavr\Downloads\Pix\X\x64\Debug\Texture.obj
-C:\Users\ilavr\Downloads\Pix\X\Src\TextureManager.cpp;C:\Users\ilavr\Downloads\Pix\X\x64\Debug\TextureManager.obj
-C:\Users\ilavr\Downloads\Pix\X\Src\Timer.cpp;C:\Users\ilavr\Downloads\Pix\X\x64\Debug\Timer.obj
-C:\Users\ilavr\Downloads\Pix\X\Src\Vertex.cpp;C:\Users\ilavr\Downloads\Pix\X\x64\Debug\Vertex.obj
-C:\Users\ilavr\Downloads\Pix\X\Src\VertexShader.cpp;C:\Users\ilavr\Downloads\Pix\X\x64\Debug\VertexShader.obj
-C:\Users\ilavr\Downloads\Pix\X\Src\VertexUtil.cpp;C:\Users\ilavr\Downloads\Pix\X\x64\Debug\VertexUtil.obj
-C:\Users\ilavr\Downloads\Pix\X\Src\XEngine.cpp;C:\Users\ilavr\Downloads\Pix\X\x64\Debug\XEngine.obj
-C:\Users\ilavr\Downloads\Pix\X\Src\XMath.cpp;C:\Users\ilavr\Downloads\Pix\X\x64\Debug\XMath.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\Src\AudioSystem.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\x64\Debug\AudioSystem.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\Src\Camera.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\x64\Debug\Camera.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\Src\Config.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\x64\Debug\Config.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\Src\ConstantBuffer.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\x64\Debug\ConstantBuffer.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\Src\Font.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\x64\Debug\Font.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\Src\GraphicsSystem.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\x64\Debug\GraphicsSystem.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\Src\Gui.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\x64\Debug\Gui.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\Src\InputSystem.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\x64\Debug\InputSystem.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\Src\PixelShader.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\x64\Debug\PixelShader.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\Src\Precompiled.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\x64\Debug\Precompiled.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\Src\RenderTarget.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\x64\Debug\RenderTarget.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\Src\SimpleDraw.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\x64\Debug\SimpleDraw.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\Src\SoundEffectManager.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\x64\Debug\SoundEffectManager.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\Src\SpriteRenderer.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\x64\Debug\SpriteRenderer.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\Src\Texture.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\x64\Debug\Texture.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\Src\TextureManager.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\x64\Debug\TextureManager.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\Src\Timer.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\x64\Debug\Timer.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\Src\Vertex.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\x64\Debug\Vertex.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\Src\VertexShader.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\x64\Debug\VertexShader.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\Src\VertexUtil.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\x64\Debug\VertexUtil.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\Src\XEngine.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\x64\Debug\XEngine.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\Src\XMath.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\x64\Debug\XMath.obj

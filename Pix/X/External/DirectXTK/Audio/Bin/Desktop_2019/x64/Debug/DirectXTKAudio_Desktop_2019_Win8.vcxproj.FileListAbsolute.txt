@@ -1,3 +1,4 @@
 D:\PeterStuff\X\Main\X\External\DirectXTK\Audio\Bin\Desktop_2019\x64\Debug\DirectXTKAudioWin8.lib
 D:\PeterStuff\X\Main\X\External\DirectXTK\Audio\Bin\Desktop_2019\x64\Debug\DirectXTKAudioWin8.pdb
 C:\Users\ilavr\Downloads\Pix\X\External\DirectXTK\Audio\Bin\Desktop_2019\x64\Debug\DirectXTKAudioWin8.lib
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\External\DirectXTK\Audio\Bin\Desktop_2019\x64\Debug\DirectXTKAudioWin8.lib
