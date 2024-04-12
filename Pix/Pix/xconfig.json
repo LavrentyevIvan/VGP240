@@ -1,0 +1,7 @@
+{
+  "AppName": "Pix",
+  "WinWidth": 1280,
+  "WinHeight": 720,
+  "FullScreen": false,
+  "TexturePath": "../Assets/Images"
+}

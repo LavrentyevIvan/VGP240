@@ -1,0 +1,2 @@
+D:\PeterStuff\X\Main\x64\Debug\FW1FontWrapper.pdb
+D:\PeterStuff\X\Main\X\External\FW1FontWrapper\x64\Debug\FW1FontWrapper.pdb

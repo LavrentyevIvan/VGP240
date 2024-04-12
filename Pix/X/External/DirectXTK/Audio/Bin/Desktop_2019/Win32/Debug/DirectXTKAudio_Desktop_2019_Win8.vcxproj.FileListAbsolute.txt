@@ -1,0 +1,2 @@
+D:\PeterStuff\SIEGE\Main\External\DirectXTK\Audio\Bin\Desktop_2019\Win32\Debug\DirectXTKAudioWin8.lib
+D:\PeterStuff\SIEGE\Main\External\DirectXTK\Audio\Bin\Desktop_2019\Win32\Debug\DirectXTKAudioWin8.pdb

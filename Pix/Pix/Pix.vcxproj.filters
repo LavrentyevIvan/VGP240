@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="imgui.ini" />
+    <None Include="xconfig.json" />
+    <None Include="Scripts\3d_cubes.pix">
+      <Filter>Scripts</Filter>
+    </None>
+    <None Include="Scripts\3d_lighting.pix">
+      <Filter>Scripts</Filter>
+    </None>
+    <None Include="Scripts\3d_pipeline.pix">
+      <Filter>Scripts</Filter>
+    </None>
+    <None Include="Scripts\3d_triangles.pix">
+      <Filter>Scripts</Filter>
+    </None>
+    <None Include="Scripts\clipping.pix">
+      <Filter>Scripts</Filter>
+    </None>
+    <None Include="Scripts\clipping2.pix">
+      <Filter>Scripts</Filter>
+    </None>
+    <None Include="Scripts\fillmode.pix">
+      <Filter>Scripts</Filter>
+    </None>
+    <None Include="Scripts\guile.pix">
+      <Filter>Scripts</Filter>
+    </None>
+    <None Include="Scripts\lines.pix">
+      <Filter>Scripts</Filter>
+    </None>
+    <None Include="Scripts\lines2.pix">
+      <Filter>Scripts</Filter>
+    </None>
+    <None Include="Scripts\quad.pix">
+      <Filter>Scripts</Filter>
+    </None>
+    <None Include="Scripts\test.pix">
+      <Filter>Scripts</Filter>
+    </None>
+    <None Include="Scripts\triangles.pix">
+      <Filter>Scripts</Filter>
+    </None>
+    <None Include="Scripts\triangles2.pix">
+      <Filter>Scripts</Filter>
+    </None>
+    <None Include="Scripts\3d_point_light.pix">
+      <Filter>Scripts</Filter>
+    </None>
+    <None Include="Scripts\3d_directional_light.pix">
+      <Filter>Scripts</Filter>
+    </None>
+    <None Include="Scripts\3d_spot_light.pix">
+      <Filter>Scripts</Filter>
+    </None>
+    <None Include="Scripts\quad2.pix">
+      <Filter>Scripts</Filter>
+    </None>
+    <None Include="Scripts\3d_texturing_cube.pix">
+      <Filter>Scripts</Filter>
+    </None>
+    <None Include="Scripts\3d_texturing_perspective.pix">
+      <Filter>Scripts</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="WinMain.cpp" />
+    <ClCompile Include="TextEditor.cpp">
+      <Filter>Editor</Filter>
+    </ClCompile>
+    <ClCompile Include="PixEditor.cpp">
+      <Filter>Editor</Filter>
+    </ClCompile>
+    <ClCompile Include="CmdDrawPixel.cpp">
+      <Filter>Commands</Filter>
+    </ClCompile>
+    <ClCompile Include="CmdSetColor.cpp">
+      <Filter>Commands</Filter>
+    </ClCompile>
+    <ClCompile Include="CmdSetResolution.cpp">
+      <Filter>Commands</Filter>
+    </ClCompile>
+    <ClCompile Include="CmdVarFloat.cpp">
+      <Filter>Commands</Filter>
+    </ClCompile>
+    <ClCompile Include="CommandDictionary.cpp">
+      <Filter>Commands</Filter>
+    </ClCompile>
+    <ClCompile Include="ScriptParser.cpp">
+      <Filter>Commands</Filter>
+    </ClCompile>
+    <ClCompile Include="VariableCache.cpp">
+      <Filter>Commands</Filter>
+    </ClCompile>
+    <ClCompile Include="Graphics.cpp">
+      <Filter>Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="Rasterizer.cpp">
+      <Filter>Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="Viewport.cpp">
+      <Filter>Graphics</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TextEditor.h">
+      <Filter>Editor</Filter>
+    </ClInclude>
+    <ClInclude Include="PixEditor.h">
+      <Filter>Editor</Filter>
+    </ClInclude>
+    <ClInclude Include="CmdDrawPixel.h">
+      <Filter>Commands</Filter>
+    </ClInclude>
+    <ClInclude Include="CmdSetColor.h">
+      <Filter>Commands</Filter>
+    </ClInclude>
+    <ClInclude Include="CmdSetResolution.h">
+      <Filter>Commands</Filter>
+    </ClInclude>
+    <ClInclude Include="CmdVarFloat.h">
+      <Filter>Commands</Filter>
+    </ClInclude>
+    <ClInclude Include="Command.h">
+      <Filter>Commands</Filter>
+    </ClInclude>
+    <ClInclude Include="CommandDictionary.h">
+      <Filter>Commands</Filter>
+    </ClInclude>
+    <ClInclude Include="ScriptParser.h">
+      <Filter>Commands</Filter>
+    </ClInclude>
+    <ClInclude Include="VariableCache.h">
+      <Filter>Commands</Filter>
+    </ClInclude>
+    <ClInclude Include="Graphics.h">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="Rasterizer.h">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="Viewport.h">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Editor">
+      <UniqueIdentifier>{822a15c9-52bf-415a-a2fa-3bca9fab8b87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Commands">
+      <UniqueIdentifier>{6cea0c79-da05-437d-9c46-23053463bce1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphics">
+      <UniqueIdentifier>{9c5dcac8-77bb-4c5e-ba5f-ae1557198d24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scripts">
+      <UniqueIdentifier>{f4ee6086-a9c7-41f0-9695-19708a6954c3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
