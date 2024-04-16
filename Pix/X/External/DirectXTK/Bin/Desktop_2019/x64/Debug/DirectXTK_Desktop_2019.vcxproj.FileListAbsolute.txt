@@ -2,3 +2,4 @@ D:\PeterStuff\X\Main\X\External\DirectXTK\Bin\Desktop_2019\x64\Debug\DirectXTK.l
 D:\PeterStuff\X\Main\X\External\DirectXTK\Bin\Desktop_2019\x64\Debug\DirectXTK.pdb
 C:\Users\ilavr\Downloads\Pix\X\External\DirectXTK\Bin\Desktop_2019\x64\Debug\DirectXTK.lib
 C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\External\DirectXTK\Bin\Desktop_2019\x64\Debug\DirectXTK.lib
+C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\X\External\DirectXTK\Bin\Desktop_2019\x64\Debug\DirectXTK.lib

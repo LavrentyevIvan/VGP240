@@ -1,0 +1,61 @@
+SetResolution(11,10,25,true)
+
+//Row 1
+SetColor(1.0, 1.0, 1.0)
+DrawPixel(5,1)
+
+//Row 2
+SetColor(1.0, 1.0, 1.0)
+DrawPixel(4,2)
+
+SetColor(1.0, 1.0, 1.0)
+DrawPixel(5,2)
+
+SetColor(1.0, 1.0, 1.0)
+DrawPixel(6,2)
+
+//Row3
+SetColor(1.0, 1.0, 1.0)
+DrawPixel(3,3)
+
+SetColor(1.0, 1.0, 1.0)
+DrawPixel(4,3)
+
+SetColor(1.0, 1.0, 1.0)
+DrawPixel(5,3)
+
+SetColor(1.0, 1.0, 1.0)
+DrawPixel(6,3)
+
+SetColor(1.0, 1.0, 1.0)
+DrawPixel(7,3)
+
+//Row4
+
+SetColor(1.0, 1.0, 1.0)
+DrawPixel(2,4)
+
+SetColor(1.0, 1.0, 1.0)
+DrawPixel(3,4)
+
+SetColor(1.0, 1.0, 1.0)
+DrawPixel(4,4)
+
+SetColor(1.0, 1.0, 1.0)
+DrawPixel(5,4)
+
+SetColor(1.0, 1.0, 1.0)
+DrawPixel(6,4)
+
+SetColor(1.0, 1.0, 1.0)
+DrawPixel(7,4)
+
+SetColor(1.0, 1.0, 1.0)
+DrawPixel(8,4)
+
+
+
+
+
+
+

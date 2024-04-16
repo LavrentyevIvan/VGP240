@@ -1,0 +1,1717 @@
+SetResolution(32,32,20,true)
+
+//1st Row
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(5,0)
+
+//2nd Row
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(5,1)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(6,1)
+
+//3rd Row
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(5,2)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(6,2)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(7,2)
+
+//3rd Row
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(5,3)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(6,3)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(7,3)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(8,3)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(9,3)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(17,3)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(18,3)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(29,3)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(30,3)
+
+//4th Row
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(5,4)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(6,4)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(7,4)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(8,4)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(9,4)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(10,4)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(16,4)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(17,4)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(18,4)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(27,4)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(28,4)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(29,4)
+
+SetColor(0, 0, 0)
+DrawPixel(30,4)
+//5th Row
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(5,5)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(6,5)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(7,5)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(8,5)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(9,5)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(10,5)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(11,5)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(14,5)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(16,5)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(17,5)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(18,5)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(20,5)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(21,5)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(26,5)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(27,5)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(28,5)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(29,5)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(30,5)
+//6th Row
+SetColor(0, 0, 0)
+DrawPixel(6,6)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(7,6)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(8,6)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(9,6)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(10,6)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(11,6)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(12,6)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(13,6)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(14,6)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(15,6)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(16,6)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(17,6)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(18,6)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(19,6)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(20,6)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(21,6)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(24,6)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(25,6)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(26,6)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(27,6)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(28,6)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(29,6)
+//7th Row
+SetColor(0, 0, 0)
+DrawPixel(6,7)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(7,7)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(8,7)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(9,7)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(10,7)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(11,7)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(12,7)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(13,7)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(14,7)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(15,7)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(16,7)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(17,7)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(18,7)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(19,7)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(20,7)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(21,7)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(23,7)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(24,7)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(25,7)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(26,7)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(27,7)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(28,7)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(29,7)
+//7th Row
+SetColor(0, 0, 0)
+DrawPixel(6,6)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(7,6)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(8,6)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(9,6)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(10,6)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(11,6)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(12,6)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(13,6)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(14,6)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(15,6)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(16,6)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(17,6)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(18,6)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(19,6)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(20,6)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(21,6)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(24,6)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(25,6)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(26,6)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(27,6)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(28,6)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(29,6)
+//8th Row
+SetColor(0, 0, 0)
+DrawPixel(6,8)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(7,8)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(8,8)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(9,8)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(10,8)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(11,8)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(12,8)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(13,8)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(14,8)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(15,8)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(16,8)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(17,8)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(18,8)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(19,8)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(20,8)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(21,8)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(22,8)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(23,8)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(24,8)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(25,8)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(26,8)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(27,8)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(28,8)
+
+//9th Row
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(7,9)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(8,9)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(9,9)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(10,9)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(11,9)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(12,9)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(13,9)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(14,9)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(15,9)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(16,9)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(17,9)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(18,9)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(19,9)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(20,9)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(21,9)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(22,9)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(23,9)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(24,9)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(25,9)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(26,9)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(27,9)
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(28,9)
+
+//10th Row
+
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(7,10)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(8,10)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(9,10)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(10,10)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(11,10)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(12,10)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(13,10)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(14,10)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(15,10)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(16,10)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(17,10)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(18,10)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(19,10)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(20,10)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(21,10)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(22,10)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(23,10)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(24,10)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(25,10)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(26,10)
+
+SetColor(0, 0, 0)
+DrawPixel(27,10)
+
+//11th Row
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(6,11)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(7,11)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(8,11)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(9,11)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(10,11)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(11,11)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(12,11)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(13,11)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(14,11)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(15,11)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(16,11)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(17,11)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(18,11)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(19,11)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(20,11)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(21,11)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(22,11)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(23,11)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(24,11)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(25,11)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(26,11)
+
+SetColor(0, 0, 0)
+DrawPixel(27,11)
+
+//12th Row
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(5,12)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(6,12)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(7,12)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(8,12)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(9,12)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(10,12)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(11,12)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(12,12)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(13,12)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(14,12)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(15,12)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(16,12)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(17,12)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(18,12)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(19,12)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(20,12)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(21,12)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(22,12)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(23,12)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(24,12)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(25,12)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(26,12)
+
+SetColor(0, 0, 0)
+DrawPixel(27,12)
+
+//13th Row
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(5,13)
+
+SetColor(0.2, 0.2, 0.4)
+DrawPixel(6,13)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(7,13)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(8,13)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(9,13)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(10,13)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(11,13)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(12,13)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(13,13)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(14,13)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(15,13)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(16,13)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(17,13)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(18,13)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(19,13)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(20,13)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(21,13)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(22,13)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(23,13)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(24,13)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(25,13)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(26,13)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(27,13)
+
+SetColor(0, 0, 0)
+DrawPixel(28,13)
+
+//14th Row
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(4,14)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(5,14)
+
+SetColor(0.95, 0.3, 0.5)
+DrawPixel(6,14)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(7,14)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(8,14)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(9,14)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(10,14)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(11,14)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(12,14)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(13,14)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(14,14)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(15,14)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(16,14)
+
+SetColor(0.2, 0.2, 0.5)
+DrawPixel(17,14)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(18,14)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(19,14)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(20,14)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(21,14)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(22,14)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(23,14)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(24,14)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(25,14)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(26,14)
+
+SetColor(0, 0, 0)
+DrawPixel(27,14)
+
+//15th Row
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(3,15)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(4,15)
+
+SetColor(0.2, 0.2, 0.3)
+DrawPixel(5,15)
+
+SetColor(0.95, 0.6, 0.7)
+DrawPixel(6,15)
+
+SetColor(0, 0, 0)
+DrawPixel(7,15)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(8,15)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(9,15)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(10,15)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(11,15)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(12,15)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(13,15)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(14,15)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(15,15)
+
+SetColor(0.2, 0.2, 0.5)
+DrawPixel(16,15)
+
+SetColor(0.95, 0.3, 0.5)
+DrawPixel(17,15)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(18,15)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(19,15)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(20,15)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(21,15)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(22,15)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(23,15)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(24,15)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(25,15)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(26,15)
+
+SetColor(0, 0, 0)
+DrawPixel(27,15)
+
+
+
+//16th Row
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(3,16)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(4,16)
+
+SetColor(0.2, 0.2, 0.3)
+DrawPixel(5,16)
+
+SetColor(0.95, 0.6, 0.7)
+DrawPixel(6,16)
+
+SetColor(0, 0, 0)
+DrawPixel(7,16)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(8,16)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(9,16)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(10,16)
+
+SetColor(0.5, 0.40, 0.7)
+DrawPixel(11,16)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(12,16)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(13,16)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(14,16)
+
+SetColor(0.2, 0.2, 0.5)
+DrawPixel(15,16)
+
+SetColor(0.95, 0.3, 0.5)
+DrawPixel(16,16)
+
+SetColor(0.95, 0.6, 0.7)
+DrawPixel(17,16)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(18,16)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(19,16)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(20,16)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(21,16)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(22,16)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(23,16)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(24,16)
+
+SetColor(0.2, 0.2, 0.3)
+DrawPixel(25,16)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(26,16)
+
+SetColor(0, 0, 0)
+DrawPixel(27,16)
+
+SetColor(0, 0, 0)
+DrawPixel(28,16)
+
+
+//17th Row
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(2,17)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(3,17)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(4,17)
+
+SetColor(0.2, 0.2, 0.3)
+DrawPixel(5,17)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(6,17)
+
+SetColor(0.95, 0.3, 0.5)
+DrawPixel(7,17)
+
+SetColor(0.2, 0.2, 0.5)
+DrawPixel(8,17)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(9,17)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(10,17)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(11,17)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(12,17)
+
+SetColor(0.2, 0.2, 0.5)
+DrawPixel(13,17)
+
+SetColor(0, 0, 0)
+DrawPixel(14,17)
+
+SetColor(0.95, 0.3, 0.5)
+DrawPixel(15,17)
+
+SetColor(0.95, 0.6, 0.7)
+DrawPixel(16,17)
+
+SetColor(0.85, 0.55, 0.69)
+DrawPixel(17,17)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(18,17)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(19,17)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(20,17)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(21,17)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(22,17)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(23,17)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(24,17)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(25,17)
+
+SetColor(0.2, 0.2, 0.3)
+DrawPixel(26,17)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(27,17)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(28,17)
+
+SetColor(0, 0, 0)
+DrawPixel(29,17)
+
+//18th Row
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(2,18)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(3,18)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(4,18)
+
+SetColor(0.2, 0.2, 0.3)
+DrawPixel(5,18)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(6,18)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(7,18)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(8,18)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(9,18)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(10,18)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(11,18)
+
+SetColor(0.2, 0.2, 0.5)
+DrawPixel(12,18)
+
+SetColor(0.95, 0.3, 0.5)
+DrawPixel(13,18)
+
+SetColor(0, 0, 0)
+DrawPixel(14,18)
+
+SetColor(0.95, 0.6, 0.7)
+DrawPixel(15,18)
+
+SetColor(0.95, 0.6, 0.7)
+DrawPixel(16,18)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(17,18)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(18,18)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(19,18)
+
+SetColor(0.2, 0.2, 0.5)
+DrawPixel(20,18)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(21,18)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(22,18)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(23,18)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(24,18)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(25,18)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(26,18)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(27,18)
+
+SetColor(0, 0, 0)
+DrawPixel(28,18)
+
+//19th Row
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(3,19)
+
+SetColor(0, 0, 0)
+DrawPixel(4,19)
+
+SetColor(0.2, 0.2, 0.3)
+DrawPixel(5,19)
+
+SetColor(0.2, 0.2, 0.5)
+DrawPixel(6,19)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(7,19)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(8,19)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(9,19)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(10,19)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(11,19)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(12,19)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(13,19)
+
+SetColor(0.85, 0.55, 0.69)
+DrawPixel(14,19)
+
+SetColor(0.95, 0.6, 0.7)
+DrawPixel(15,19)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(16,19)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(17,19)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(18,19)
+
+SetColor(0.2, 0.2, 0.5)
+DrawPixel(19,19)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(20,19)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(21,19)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(22,19)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(23,19)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(24,19)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(25,19)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(26,19)
+
+SetColor(0, 0, 0)
+DrawPixel(27,19)
+
+//20th Row
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(5,20)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(6,20)
+
+SetColor(0.2, 0.2, 0.5)
+DrawPixel(7,20)
+
+SetColor(0.2, 0.2, 0.5)
+DrawPixel(8,20)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(9,20)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(10,20)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(11,20)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(12,20)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(13,20)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(14,20)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(15,20)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(16,20)
+
+SetColor(0.2, 0.2, 0.5)
+DrawPixel(17,20)
+
+SetColor(0.2, 0.2, 0.5)
+DrawPixel(18,20)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(19,20)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(20,20)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(21,20)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(22,20)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(23,20)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(24,20)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(25,20)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(26,20)
+
+SetColor(0, 0, 0)
+DrawPixel(27,20)
+
+//21th Row
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(5,21)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(6,21)
+
+SetColor(1, 1, 1)
+DrawPixel(7,21)
+
+SetColor(0.7, 0.7, 0.7)
+DrawPixel(8,21)
+
+SetColor(0.2, 0.2, 0.5)
+DrawPixel(9,21)
+
+SetColor(0.2, 0.2, 0.5)
+DrawPixel(10,21)
+
+SetColor(0.2, 0.2, 0.5)
+DrawPixel(11,21)
+
+SetColor(0.2, 0.2, 0.5)
+DrawPixel(12,21)
+
+SetColor(0.2, 0.2, 0.5)
+DrawPixel(13,21)
+
+SetColor(0.2, 0.2, 0.5)
+DrawPixel(14,21)
+
+SetColor(0.2, 0.2, 0.5)
+DrawPixel(15,21)
+
+SetColor(0.2, 0.2, 0.5)
+DrawPixel(16,21)
+
+SetColor(1, 1, 1)
+DrawPixel(17,21)
+
+SetColor(1, 1, 1)
+DrawPixel(18,21)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(19,21)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(20,21)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(21,21)
+
+SetColor(0.2, 0.2, 0.3)
+DrawPixel(22,21)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(23,21)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(24,21)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(25,21)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(26,21)
+
+SetColor(0, 0, 0)
+DrawPixel(27,21)
+
+//22th Row
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(6,22)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(7,22)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(8,22)
+
+SetColor(1.0, 1.0, 1.0)
+DrawPixel(9,22)
+
+SetColor(0.7, 0.7, 0.7)
+DrawPixel(10,22)
+
+SetColor(1.0, 1.0, 1.0)
+DrawPixel(11,22)
+
+SetColor(1.0, 1.0, 1.0)
+DrawPixel(12,22)
+
+SetColor(0.7, 0.7, 0.7)
+DrawPixel(13,22)
+
+SetColor(1.0, 1.0, 1.0)
+DrawPixel(14,22)
+
+SetColor(1.0, 1.0, 1.0)
+DrawPixel(15,22)
+
+SetColor(1, 1, 1)
+DrawPixel(16,22)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(17,22)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(18,22)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(19,22)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(20,22)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(21,22)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(22,22)
+
+SetColor(0.2, 0.2, 0.3)
+DrawPixel(23,22)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(24,22)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(25,22)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(26,22)
+
+SetColor(0, 0, 0)
+DrawPixel(27,22)
+
+//23rd Row
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(7,23)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(8,23)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(9,23)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(10,23)
+
+SetColor(1.0, 1.0, 1.0)
+DrawPixel(11,23)
+
+SetColor(1.0, 1.0, 1.0)
+DrawPixel(12,23)
+
+SetColor(0.7, 0.7, 0.7)
+DrawPixel(13,23)
+
+SetColor(1.0, 1.0, 1.0)
+DrawPixel(14,23)
+
+SetColor(1.0, 1.0, 1.0)
+DrawPixel(15,23)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(16,23)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(17,23)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(18,23)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(19,23)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(20,23)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(21,23)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(22,23)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(23,23)
+
+SetColor(0.2, 0.2, 0.3)
+DrawPixel(24,23)
+
+SetColor(0.2, 0.2, 0.3)
+DrawPixel(25,23)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(26,23)
+
+SetColor(0, 0, 0)
+DrawPixel(27,23)
+
+//24th Row
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(7,24)
+
+SetColor(0.2, 0.2, 0.3)
+DrawPixel(8,24)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(9,24)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(10,24)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(11,24)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(12,24)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(13,24)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(14,24)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(15,24)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(16,24)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(17,24)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(18,24)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(19,24)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(20,24)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(21,24)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(22,24)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(23,24)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(24,24)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(25,24)
+
+SetColor(0.2, 0.2, 0.3)
+DrawPixel(26,24)
+
+SetColor(0, 0, 0)
+DrawPixel(27,24)
+
+//25th Row
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(7,25)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(8,25)
+
+SetColor(0.2, 0.2, 0.3)
+DrawPixel(9,25)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(10,25)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(11,25)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(12,25)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(13,25)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(14,25)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(15,25)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(16,25)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(17,25)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(18,25)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(19,25)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(20,25)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(21,25)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(22,25)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(23,25)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(24,25)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(25,25)
+
+SetColor(0.2, 0.2, 0.3)
+DrawPixel(26,25)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(27,25)
+
+SetColor(0, 0, 0)
+DrawPixel(28,25)
+
+//25th Row
+
+SetColor(0.0, 0.0, 0.0)
+DrawPixel(7,25)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(8,25)
+
+SetColor(0.2, 0.2, 0.3)
+DrawPixel(9,25)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(10,25)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(11,25)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(12,25)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(13,25)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(14,25)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(15,25)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(16,25)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(17,25)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(18,25)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(19,25)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(20,25)
+
+SetColor(0.35, 0.20, 0.7)
+DrawPixel(21,25)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(22,25)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(23,25)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(24,25)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(25,25)
+
+SetColor(0.2, 0.2, 0.3)
+DrawPixel(26,25)
+
+SetColor(0.25, 0.20, 0.6)
+DrawPixel(27,25)
+
+SetColor(0, 0, 0)
+DrawPixel(28,25)
