@@ -1,4 +1,4 @@
-SetResolution(32,32,20,true)
+SetResolution(32,32,20,false)
 
 //1st Row
 SetColor(0.0, 0.0, 0.0)
@@ -1987,3 +1987,4 @@ DrawPixel(22,31)
 
 SetColor(0, 0, 0)
 DrawPixel(23,31)
+
