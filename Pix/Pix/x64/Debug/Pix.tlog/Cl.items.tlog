@@ -1,14 +1,18 @@
-C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\CmdDrawPixel.cpp;C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\x64\Debug\CmdDrawPixel.obj
-C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\CmdSetColor.cpp;C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\x64\Debug\CmdSetColor.obj
-C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\CmdSetResolution.cpp;C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\x64\Debug\CmdSetResolution.obj
-C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\CmdVarFloat.cpp;C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\x64\Debug\CmdVarFloat.obj
-C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\CommandDictionary.cpp;C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\x64\Debug\CommandDictionary.obj
-C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\Graphics.cpp;C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\x64\Debug\Graphics.obj
-C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\MathHelper.cpp;C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\x64\Debug\MathHelper.obj
-C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\PixEditor.cpp;C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\x64\Debug\PixEditor.obj
-C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\Rasterizer.cpp;C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\x64\Debug\Rasterizer.obj
-C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\ScriptParser.cpp;C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\x64\Debug\ScriptParser.obj
-C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\TextEditor.cpp;C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\x64\Debug\TextEditor.obj
-C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\VariableCache.cpp;C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\x64\Debug\VariableCache.obj
-C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\Viewport.cpp;C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\x64\Debug\Viewport.obj
-C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\WinMain.cpp;C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\x64\Debug\WinMain.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\CmdAddVertex.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\x64\Debug\CmdAddVertex.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\CmdBeginDraw.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\x64\Debug\CmdBeginDraw.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\CmdDrawPixel.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\x64\Debug\CmdDrawPixel.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\CmdEndDraw.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\x64\Debug\CmdEndDraw.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\CmdSetColor.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\x64\Debug\CmdSetColor.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\CmdSetResolution.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\x64\Debug\CmdSetResolution.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\CmdVarFloat.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\x64\Debug\CmdVarFloat.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\CommandDictionary.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\x64\Debug\CommandDictionary.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Graphics.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\x64\Debug\Graphics.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\MathHelper.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\x64\Debug\MathHelper.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\PixEditor.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\x64\Debug\PixEditor.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\PrimitiveManager.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\x64\Debug\PrimitiveManager.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Rasterizer.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\x64\Debug\Rasterizer.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\ScriptParser.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\x64\Debug\ScriptParser.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\TextEditor.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\x64\Debug\TextEditor.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\VariableCache.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\x64\Debug\VariableCache.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Viewport.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\x64\Debug\Viewport.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\WinMain.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\x64\Debug\WinMain.obj

@@ -1,0 +1,11 @@
+SetResolution(20,20,20,true)
+
+BeginDraw(point)
+
+AddVertex(2,2,1,0,0)
+
+AddVertex(7,5,0,1,0)
+
+AddVertex(5,5,0,0,1)
+
+EndDraw()
