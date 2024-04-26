@@ -1,9 +1,14 @@
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Clipper.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\x64\Debug\Clipper.obj
 C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\CmdAddVertex.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\x64\Debug\CmdAddVertex.obj
 C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\CmdBeginDraw.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\x64\Debug\CmdBeginDraw.obj
 C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\CmdDrawPixel.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\x64\Debug\CmdDrawPixel.obj
 C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\CmdEndDraw.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\x64\Debug\CmdEndDraw.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\CmdSetClipping.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\x64\Debug\CmdSetClipping.obj
 C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\CmdSetColor.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\x64\Debug\CmdSetColor.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\CmdSetFillMode.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\x64\Debug\CmdSetFillMode.obj
 C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\CmdSetResolution.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\x64\Debug\CmdSetResolution.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\CmdSetViewport.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\x64\Debug\CmdSetViewport.obj
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\CmdShowViewport.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\x64\Debug\CmdShowViewport.obj
 C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\CmdVarFloat.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\x64\Debug\CmdVarFloat.obj
 C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\CommandDictionary.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\x64\Debug\CommandDictionary.obj
 C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Graphics.cpp;C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\x64\Debug\Graphics.obj

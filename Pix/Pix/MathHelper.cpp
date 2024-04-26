@@ -1,5 +1,9 @@
 #include "MathHelper.h"
 #include "XMath.h"
+bool MathHelper::CheckEqual(const float a, const float b)
+{
+	return fabsf(a - b) < 0.01f;
+}
 float MathHelper::MagnitudeSquared(const Vector2& v)
 {
 	return v.x * v.x + v.y* v.y;

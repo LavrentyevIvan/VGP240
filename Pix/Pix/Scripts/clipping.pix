@@ -1,0 +1,20 @@
+SetResolution(50, 50, 10, false)
+
+float $x = 5;
+float $y = 5;
+
+SetViewport($x,$y,40,40)
+ShowViewport(true)
+SetClipping(false)
+
+BeginDraw(line)
+AddVertex(10, 2, 1, 1, 0)
+AddVertex(20, 20, 1, 0, 1)
+
+EndDraw()
+
+
+
+
+
+

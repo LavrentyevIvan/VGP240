@@ -117,6 +117,21 @@
     <ClCompile Include="CmdEndDraw.cpp">
       <Filter>Commands</Filter>
     </ClCompile>
+    <ClCompile Include="CmdSetFillMode.cpp">
+      <Filter>Commands</Filter>
+    </ClCompile>
+    <ClCompile Include="CmdSetViewport.cpp">
+      <Filter>Commands</Filter>
+    </ClCompile>
+    <ClCompile Include="CmdShowViewport.cpp">
+      <Filter>Commands</Filter>
+    </ClCompile>
+    <ClCompile Include="Clipper.cpp">
+      <Filter>Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="CmdSetClipping.cpp">
+      <Filter>Commands</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TextEditor.h">
@@ -180,6 +195,21 @@
       <Filter>Commands</Filter>
     </ClInclude>
     <ClInclude Include="CmdEndDraw.h">
+      <Filter>Commands</Filter>
+    </ClInclude>
+    <ClInclude Include="CmdSetFillMode.h">
+      <Filter>Commands</Filter>
+    </ClInclude>
+    <ClInclude Include="CmdSetViewport.h">
+      <Filter>Commands</Filter>
+    </ClInclude>
+    <ClInclude Include="CmdShowViewport.h">
+      <Filter>Commands</Filter>
+    </ClInclude>
+    <ClInclude Include="Clipper.h">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="CmdSetClipping.h">
       <Filter>Commands</Filter>
     </ClInclude>
   </ItemGroup>
