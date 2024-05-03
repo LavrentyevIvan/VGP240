@@ -11,9 +11,9 @@ inline static Vector3 LerpPosition(const Vector3 a, const Vector3 b, const float
 {
 	Vector3 pos;
 	X::Color color;
-	pos.x = MathHelper::Lerp(a.x, b.x, t);
-	pos.y = MathHelper::Lerp(a.y, b.y, t);
-	pos.z = MathHelper::Lerp(a.z, b.z, t);
+	pos.x = floorf(MathHelper::Lerp(a.x, b.x, t) + 0.5);
+	pos.y = floorf(MathHelper::Lerp(a.y, b.y, t) + 0.5);
+	pos.z = floorf(MathHelper::Lerp(a.z, b.z, t) + 0.5);
 	return pos;
 
 }

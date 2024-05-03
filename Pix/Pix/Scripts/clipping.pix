@@ -5,13 +5,24 @@ float $y = 5;
 
 SetViewport($x,$y,40,40)
 ShowViewport(true)
-SetClipping(false)
+SetClipping(true)
 
-BeginDraw(line)
+SetFillMode(solid)
+
+BeginDraw(triangle)
 AddVertex(10, 2, 1, 1, 0)
-AddVertex(20, 20, 1, 0, 1)
+AddVertex(3, 20, 1, 0, 1)
+AddVertex(35, 20, 1, 0.5, 0.25)
+
+
+AddVertex(3, 20, 0, 0.1, 1)
+AddVertex(25, 35, 0, 1, 0.25)
+AddVertex(45, 10, 0.1, 0.7, 0.7)
 
 EndDraw()
+
+
+
 
 
 

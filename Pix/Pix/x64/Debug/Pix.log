@@ -1,2 +1,3 @@
-﻿  Clipper.cpp
+﻿  PrimitiveManager.cpp
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\PrimitiveManager.cpp(81): warning C4715: 'PrimitivesManager::EndDraw': not all control paths return a value
   Pix.vcxproj -> C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\x64\Debug\Pix.exe
