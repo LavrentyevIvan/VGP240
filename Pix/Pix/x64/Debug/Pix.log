@@ -1,1 +1,72 @@
-﻿  Pix.vcxproj -> C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\x64\Debug\Pix.exe
+﻿  Camera.cpp
+  Clipper.cpp
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Vertex.h(14,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Vertex.h(15,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Vertex.h(16,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  CmdAddVertex.cpp
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Vertex.h(14,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Vertex.h(15,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Vertex.h(16,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  CmdBeginDraw.cpp
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Vertex.h(14,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Vertex.h(15,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Vertex.h(16,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  CmdDrawPixel.cpp
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Vertex.h(14,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Vertex.h(15,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Vertex.h(16,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  CmdEndDraw.cpp
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Vertex.h(14,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Vertex.h(15,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Vertex.h(16,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  CmdSetClipping.cpp
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Vertex.h(14,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Vertex.h(15,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Vertex.h(16,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  CmdSetColor.cpp
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Vertex.h(14,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Vertex.h(15,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Vertex.h(16,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  CmdSetFillMode.cpp
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Vertex.h(14,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Vertex.h(15,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Vertex.h(16,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  CmdSetResolution.cpp
+  CmdSetViewport.cpp
+  CmdShowViewport.cpp
+  CmdVarFloat.cpp
+  CommandDictionary.cpp
+  Graphics.cpp
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Vertex.h(14,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Vertex.h(15,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Vertex.h(16,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  MathHelper.cpp
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\Inc\XMath.h(509,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\Inc\XMath.h(509,24): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\Inc\XMath.h(510,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\X\Inc\XMath.h(510,24): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\MathHelper.cpp(19,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\MathHelper.cpp(24,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  PixEditor.cpp
+  PrimitiveManager.cpp
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Vertex.h(14,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Vertex.h(15,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Vertex.h(16,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Rasterizer.cpp
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Vertex.h(14,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Vertex.h(15,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Vertex.h(16,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Rasterizer.cpp(53,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Rasterizer.cpp(74,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  ScriptParser.cpp
+  Generating Code...
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\PrimitiveManager.cpp(115): warning C4715: 'PrimitivesManager::EndDraw': not all control paths return a value
+C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\Pix\Clipper.cpp(55): warning C4715: 'IsInFront': not all control paths return a value
+  Compiling...
+  TextEditor.cpp
+  VariableCache.cpp
+  Viewport.cpp
+  WinMain.cpp
+  Generating Code...
+     Creating library C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\x64\Debug\Pix.lib and object C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\x64\Debug\Pix.exp
+  Pix.vcxproj -> C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\x64\Debug\Pix.exe
