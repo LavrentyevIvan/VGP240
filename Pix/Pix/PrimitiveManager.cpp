@@ -66,6 +66,9 @@ bool PrimitivesManager::EndDraw()
 		for (size_t i = 0; i < mVertexBuffer.size(); ++i)
 		{
 			Vector3 finalPos = MathHelper::TransformCoord(mVertexBuffer[i].pos, matFinal);
+			finalPos.x = floor(finalPos.x + 0.5f);
+			finalPos.y = floor(finalPos.y + 0.5f);
+			finalPos.z = floor(finalPos.z + 0.5f);
 			mVertexBuffer[i].pos = finalPos;
 		}
 

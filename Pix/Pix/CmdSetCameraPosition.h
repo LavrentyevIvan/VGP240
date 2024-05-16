@@ -15,7 +15,7 @@ public:
 		return
 			"SetCameraPosition(x, y,z)\n"
 			"\n"
-			"- Draws a single pixel at position (x, y).";
+			"- Sets the Camera Position (x, y, z).";
 	}
 
 	bool Execute(const std::vector<std::string>& params) override;

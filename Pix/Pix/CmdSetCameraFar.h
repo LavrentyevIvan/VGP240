@@ -1,18 +1,23 @@
-class CmdSetCameraPosition : public Command
+#pragma once
+
+
+#include "Command.h"
+
+class CmdSetCameraFar: public Command
 {
 public:
 	const char* GetName() override
 	{
-		return "SetCameraPosition";
+		return "SetCameraFar";
 	}
 
 	const char* GetDescription() override
 	{
 		return
-			"SetCameraPosition(x, y,z)\n"
+			"SetCameraFar(far)\n"
 			"\n"
-			"- Draws a single pixel at position (x, y).";
+			"- Sets camera far value.";
 	}
 
 	bool Execute(const std::vector<std::string>& params) override;
-};gNic
+};

@@ -1,17 +1,22 @@
-class CmdSetCameraPosition : public Command
+#pragma once
+
+
+#include "Command.h"
+
+class CmdSetCameraFOV : public Command
 {
 public:
 	const char* GetName() override
 	{
-		return "SetCameraPosition";
+		return "SetCameraFOV";
 	}
 
 	const char* GetDescription() override
 	{
 		return
-			"SetCameraPosition(x, y,z)\n"
+			"SetCameraFOV(fov)\n"
 			"\n"
-			"- Draws a single pixel at position (x, y).";
+			"- Sets camera FOV .";
 	}
 
 	bool Execute(const std::vector<std::string>& params) override;

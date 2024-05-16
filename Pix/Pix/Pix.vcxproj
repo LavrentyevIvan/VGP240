@@ -177,6 +177,7 @@
     <ClCompile Include="CmdBeginDraw.cpp" />
     <ClCompile Include="CmdDrawPixel.cpp" />
     <ClCompile Include="CmdEndDraw.cpp" />
+    <ClCompile Include="CmdSetCameraDirection.cpp" />
     <ClCompile Include="CmdSetCameraFar.cpp" />
     <ClCompile Include="CmdSetCameraFOV.cpp" />
     <ClCompile Include="CmdSetCameraNear.cpp" />
@@ -212,6 +213,7 @@
     <ClInclude Include="CmdBeginDraw.h" />
     <ClInclude Include="CmdDrawPixel.h" />
     <ClInclude Include="CmdEndDraw.h" />
+    <ClInclude Include="CmdSetCameraDirection.h" />
     <ClInclude Include="CmdSetCameraFar.h" />
     <ClInclude Include="CmdSetCameraFOV.h" />
     <ClInclude Include="CmdSetCameraNear.h" />

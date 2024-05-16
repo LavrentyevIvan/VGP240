@@ -12,8 +12,13 @@
 
 #include "CmdShowViewport.h"
 #include "CmdSetViewport.h"
-
 #include "CmdSetClipping.h"
+
+#include "CmdSetCameraDirection.h"
+#include "CmdSetCameraFar.h"
+#include "CmdSetCameraFOV.h"
+#include "CmdSetCameraNear.h"
+#include "CmdSetCameraPosition.h"
 
 CommandDictionary* CommandDictionary::Get()
 {
@@ -31,6 +36,12 @@ CommandDictionary::CommandDictionary()
 	RegisterCommand<CmdShowViewport>();
 	RegisterCommand<CmdSetClipping>();
 
+	// Camera Settings
+	RegisterCommand<CmdSetCameraDirection>();
+	RegisterCommand<CmdSetCameraFar>();
+	RegisterCommand<CmdSetCameraFOV>();
+	RegisterCommand<CmdSetCameraNear>();
+	RegisterCommand<CmdSetCameraPosition>();
 	// Variable commands
 	RegisterCommand<CmdVarFloat>();
 

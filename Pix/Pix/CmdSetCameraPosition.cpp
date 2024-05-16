@@ -1,17 +1,19 @@
 #include "CmdSetCameraPosition.h"
-
-#include "Rasterizer.h"
-
+#include "VariableCache.h"
+#include "Camera.h"
 bool CmdSetCameraPosition::Execute(const std::vector<std::string>& params)
 {
 	// Need at least 2 params for x, y
-	if (params.size() < 2)
+	if (params.size() < 3)
+	{
 		return false;
+	}
+	
 
-	int positionX = stoi(params[0]);
-	int positionY = stoi(params[1]);
-
-	// Draw the pixel
-	Rasterizer::Get()->DrawPoint(positionX, positionY);
+	auto vc = VariableCache::Get();
+	float x = vc->GetFloat(params[0]);
+	float y = vc->GetFloat(params[1]);
+	float z = vc->GetFloat(params[2]);
+	Camera::Get()->SetPosition({ x,y,z });
 	return true;
 }
