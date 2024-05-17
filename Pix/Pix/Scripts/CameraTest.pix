@@ -2,11 +2,11 @@ SetResolution(500,500,1)
 
 float $camX = 0
 float $camY = 0
-float $camZ = 0
+float $camZ = -5
 
 float $camDirX = 0
 float $camDirY = 0
-float $camDirZ = 0
+float $camDirZ = 1
 
 float $camFOV = 30
 
@@ -16,20 +16,21 @@ SetCameraDirection($camDirX, $camDirY, $camDirZ)
 BeginDraw(triangle, true)
 
 //Front
-AddVertex(-1, -1, 1, 0, 1, 0);
-AddVertex(-1, 1, 1, 0, 1, 0);
-AddVertex(1, 1, 1, 0, 1, 0);
+AddVertex(-1, -1, 1, 0, 1, 0)
+AddVertex(-1, 1, 1, 0, 1, 0)
+AddVertex(1, 1, 1, 0, 1, 0)
 
-AddVertex(-1, -1, 1, 0, 0, 1);
-AddVertex(1, 1, 1, 0, 0, 1);
-AddVertex(1, -1, 1, 0, 0, 1);
+AddVertex(-1, -1, 1, 0, 0, 1)
+AddVertex(1, 1, 1, 0, 0, 1)
+AddVertex(1, -1, 1, 0, 0, 1)
 
 //Right
-AddVertex(1, -1, -1, 1, 0, 1);
-AddVertex(1, 1, -1, 1, 0, 1);
-AddVertex(1, 1, 1, 1, 0, 1);
-AddVertex(1, -1, -1, 1, 1, 0);
-AddVertex(1, 1, 1, 1, 1, 0);
-AddVertex(1, -1, 1, 1, 1, 0);
+AddVertex(1, -1, -1, 1, 0, 1)
+AddVertex(1, 1, -1, 1, 0, 1)
+AddVertex(1, 1, 1, 1, 0, 1)
+AddVertex(1, -1, -1, 1, 1, 0)
+AddVertex(1, 1, 1, 1, 1, 0)
+AddVertex(1, -1, 1, 1, 1, 0)
 
 EndDraw()
+

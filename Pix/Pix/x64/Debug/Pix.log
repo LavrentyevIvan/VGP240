@@ -1,16 +1,1 @@
-﻿  CmdSetCameraDirection.cpp
-  CommandDictionary.cpp
-  MathHelper.cpp
-C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\X\Inc\XMath.h(509,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\X\Inc\XMath.h(509,24): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
-C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\X\Inc\XMath.h(510,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\X\Inc\XMath.h(510,24): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
-C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\MathHelper.cpp(19,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
-C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\MathHelper.cpp(24,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
-  PrimitiveManager.cpp
-C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\Vertex.h(14,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\Vertex.h(15,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\Vertex.h(16,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-  Generating Code...
-C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\PrimitiveManager.cpp(118): warning C4715: 'PrimitivesManager::EndDraw': not all control paths return a value
-  Pix.vcxproj -> C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\x64\Debug\Pix.exe
+﻿  Pix.vcxproj -> C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\x64\Debug\Pix.exe

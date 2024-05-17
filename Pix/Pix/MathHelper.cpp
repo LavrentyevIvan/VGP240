@@ -59,6 +59,13 @@ float MathHelper::Lerp(const float a, const float b, const float t)
 	return a + (b - a) * t;
 }
 
+void MathHelper::FlattenVector(Vector3& v)
+{
+	v.x = floor(v.x + 0.5f);
+	v.y = floor(v.y + 0.5f);
+	v.z = floor(v.z + 0.5f);
+}
+
 Vector3 MathHelper::TransformCoord(const Vector3& v, const Matrix4& m)
 {
 	const float w = (v.x * m._14) + (v.y * m._24) + (v.z * m._34) + (1.0f * m._44);

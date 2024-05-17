@@ -150,6 +150,36 @@
     <ClCompile Include="CmdSetCameraDirection.cpp">
       <Filter>Commands</Filter>
     </ClCompile>
+    <ClCompile Include="MatrixStack.cpp">
+      <Filter>Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="CmdPushRotationX.cpp">
+      <Filter>Commands</Filter>
+    </ClCompile>
+    <ClCompile Include="CmdPushScaling.cpp">
+      <Filter>Commands</Filter>
+    </ClCompile>
+    <ClCompile Include="CmdPushTranslation.cpp">
+      <Filter>Commands</Filter>
+    </ClCompile>
+    <ClCompile Include="CmdPopMatrix.cpp">
+      <Filter>Commands</Filter>
+    </ClCompile>
+    <ClCompile Include="CmdPushRotationY.cpp">
+      <Filter>Commands</Filter>
+    </ClCompile>
+    <ClCompile Include="CmdPushRotationZ.cpp">
+      <Filter>Commands</Filter>
+    </ClCompile>
+    <ClCompile Include="CmdSetCullMode.cpp">
+      <Filter>Commands</Filter>
+    </ClCompile>
+    <ClCompile Include="DepthBuffer.cpp">
+      <Filter>Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="CmdEnableDepth.cpp">
+      <Filter>Commands</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TextEditor.h">
@@ -249,6 +279,36 @@
       <Filter>Commands</Filter>
     </ClInclude>
     <ClInclude Include="CmdSetCameraDirection.h">
+      <Filter>Commands</Filter>
+    </ClInclude>
+    <ClInclude Include="MatrixStack.h">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="CmdPushRotationX.h">
+      <Filter>Commands</Filter>
+    </ClInclude>
+    <ClInclude Include="CmdPushRotationZ.h">
+      <Filter>Commands</Filter>
+    </ClInclude>
+    <ClInclude Include="CmdPushScaling.h">
+      <Filter>Commands</Filter>
+    </ClInclude>
+    <ClInclude Include="CmdPushTranslation.h">
+      <Filter>Commands</Filter>
+    </ClInclude>
+    <ClInclude Include="CmdPopMatrix.h">
+      <Filter>Commands</Filter>
+    </ClInclude>
+    <ClInclude Include="CmdPushRotationY.h">
+      <Filter>Commands</Filter>
+    </ClInclude>
+    <ClInclude Include="CmdSetCullMode.h">
+      <Filter>Commands</Filter>
+    </ClInclude>
+    <ClInclude Include="DepthBuffer.h">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="CmdEnableDepth.h">
       <Filter>Commands</Filter>
     </ClInclude>
   </ItemGroup>
