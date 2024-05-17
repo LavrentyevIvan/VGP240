@@ -1,4 +1,5 @@
 #include "Rasterizer.h"
+#include "DepthBuffer.h"
 
 Rasterizer* Rasterizer::Get()
 {
@@ -18,13 +19,17 @@ void Rasterizer::SetFillMode(FillMode fillmode)
 
 void Rasterizer::DrawPoint(int x, int y)
 {
+	if(DepthBuffer::Get()->CheckDepthBuffer())
 	X::DrawPixel(x, y, mColor);
 }
 
 void Rasterizer::DrawPoint(const Vertex& v)
 {
-	mColor = v.color;
-	DrawPoint(static_cast<int>(v.pos.x), static_cast<int>(v.pos.y));
+	if (DepthBuffer::Get()->CheckDepthBuffer(v.pos.x, v.pos.y, v.pos.z))
+	{
+		mColor = v.color;
+		DrawPoint(static_cast<int>(v.pos.x), static_cast<int>(v.pos.y));
+	}
 }
 
 void Rasterizer::DrawLine(const Vertex& v0, const Vertex& v1)
