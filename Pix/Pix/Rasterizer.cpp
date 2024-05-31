@@ -19,7 +19,6 @@ void Rasterizer::SetFillMode(FillMode fillmode)
 
 void Rasterizer::DrawPoint(int x, int y)
 {
-	if(DepthBuffer::Get()->CheckDepthBuffer())
 	X::DrawPixel(x, y, mColor);
 }
 

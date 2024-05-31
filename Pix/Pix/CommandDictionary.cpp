@@ -20,6 +20,8 @@
 #include "CmdSetCameraNear.h"
 #include "CmdSetCameraPosition.h"
 
+#include "CmdLights.h"
+
 #include "CmdPushRotationX.h"
 #include "CmdPushRotationY.h"
 #include "CmdPushRotationZ.h"
@@ -59,6 +61,11 @@ CommandDictionary::CommandDictionary()
 	RegisterCommand<CmdPushTranslation>();
 	RegisterCommand<CmdPopMatrix>();
 
+	//Lights
+	RegisterCommand<CmdSetLightAmbient>();
+	RegisterCommand<CmdSetLightDiffuse>();
+	RegisterCommand<CmdSetLightSpecular>();
+	RegisterCommand<CmdAddDirectionalLight>();
 
 	// Rasterization commands
 	RegisterCommand<CmdDrawPixel>();
