@@ -31,9 +31,14 @@ void MaterialManager::SetMaterialSpecular(const X::Color& color)
 
 }
 
-void MaterialManager::SetMaterialEmissive(float shininess)
+void MaterialManager::SetMaterialEmissive(const X::Color& color)
 {
-	mEmissive = shininess;
+	mEmissive = color;
+}
+
+void MaterialManager::SetMaterialShininess(float shininess)
+{
+	mShininess = shininess;
 }
 
 const X::Color& MaterialManager::GetMaterialAmbient() const

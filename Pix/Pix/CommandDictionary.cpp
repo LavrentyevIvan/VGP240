@@ -30,6 +30,8 @@
 #include "CmdPopMatrix.h"
 
 #include "CmdSetCullMode.h"
+
+#include "CmdMaterial.h"
 CommandDictionary* CommandDictionary::Get()
 {
 	static CommandDictionary sInstance;
@@ -66,6 +68,15 @@ CommandDictionary::CommandDictionary()
 	RegisterCommand<CmdSetLightDiffuse>();
 	RegisterCommand<CmdSetLightSpecular>();
 	RegisterCommand<CmdAddDirectionalLight>();
+	RegisterCommand<CmdAddPointLight>();
+	RegisterCommand<CmdAddSpotLight>();
+
+	//Material
+	RegisterCommand<CmdSetMaterialAmbient>();
+	RegisterCommand<CmdSetMaterialDiffuse>();
+	RegisterCommand<CmdSetMaterialSpecular>();
+	RegisterCommand<CmdSetMaterialEmissive>();
+	RegisterCommand<CmdSetMaterialShininess>();
 
 	// Rasterization commands
 	RegisterCommand<CmdDrawPixel>();

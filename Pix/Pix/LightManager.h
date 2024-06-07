@@ -13,6 +13,8 @@ public:
 	void SetLightingSpecular(const X::Color& color);
 
 	void AddDirectionalLight(const Vector3& direciton);
+	void AddPointLight(const Vector3& position, float constant, float linear, float quadratic);
+	void AddSpotLight(const Vector3& position,const Vector3& direction, float constant, float linear, float quadratic, float angle, float decay);
 
 	X::Color ComputeLightColor(const Vector3& position, const Vector3& normal) const;
 
