@@ -1,0 +1,85 @@
+SetResolution(500, 500, 1)
+
+SetViewport(50, 50, 400, 400)
+SetClipping(true)
+SetCullMode(back)
+ShowViewport(true)
+EnableDepth(true)
+
+float $camX = 0, 0.01
+float $camY = 0, 0.01
+float $camZ = -3.5, 0.01
+
+float $camDirX = 0, 0.01
+float $camDirY = 0, 0.01
+float $camDirZ = 1, 0.01
+
+float $rotX = 40, 0.1
+float $rotY = 35, 0.1
+float $rotZ = 20, 0.1
+
+SetCameraPosition($camX, $camY, $camZ)
+SetCameraDirection($camDirX, $camDirY, $camDirZ)
+
+PushTranslation(0, 0, 0)
+PushRotationZ($rotZ)
+PushRotationY($rotY)
+PushRotationX($rotX)
+PushScaling(1, 1, 1)
+
+//SetTexture(../Images/checker.bmp)
+//SetTexture(../Images/sponge_bob.bmp)
+SetTexture(../Images/crate.bmp)
+SetCorrectUV(true)
+
+BeginDraw(triangle, true)
+
+// Front
+Vertex(1, -1, 1, 0, 1, -1)
+Vertex(1, 1, 1, 0, 0, -1)
+Vertex(-1, 1, 1, 1, 0, -1)
+Vertex(1, -1, 1, 0, 1, -1)
+Vertex(-1, 1, 1, 1, 0, -1)
+Vertex(-1, -1, 1, 1, 1, -1)
+
+// Back
+Vertex(-1, -1, -1, 0, 1, -1)
+Vertex(-1, 1, -1, 0, 0, -1)
+Vertex(1, 1, -1, 1, 0, -1)
+Vertex(-1, -1, -1, 0, 1, -1)
+Vertex(1, 1, -1, 1, 0, -1)
+Vertex(1, -1, -1, 1, 1, -1)
+
+// Right
+Vertex(1, -1, -1, 0, 1, -1)
+Vertex(1, 1, -1, 0, 0, -1)
+Vertex(1, 1, 1, 1, 0, -1)
+Vertex(1, -1, -1, 0, 1, -1)
+Vertex(1, 1, 1, 1, 0, -1)
+Vertex(1, -1, 1, 1, 1, -1)
+
+// Left
+Vertex(-1, -1, 1, 0, 1, -1)
+Vertex(-1, 1, 1, 0, 0, -1)
+Vertex(-1, 1, -1, 1, 0, -1)
+Vertex(-1, -1, 1, 0, 1, -1)
+Vertex(-1, 1, -1, 1, 0, -1)
+Vertex(-1, -1, -1, 1, 1, -1)
+
+// Top
+Vertex(-1, 1, -1, 0, 1, -1)
+Vertex(-1, 1, 1, 0, 0, -1)
+Vertex(1, 1, 1, 1, 0, -1)
+Vertex(-1, 1, -1, 0, 1, -1)
+Vertex(1, 1, 1, 1, 0, -1)
+Vertex(1, 1, -1, 1, 1, -1)
+
+// Bottom
+Vertex(-1, -1, 1, 0, 1, -1)
+Vertex(-1, -1, -1, 0, 0, -1)
+Vertex(1, -1, -1, 1, 0, -1)
+Vertex(-1, -1, 1, 0, 1, -1)
+Vertex(1, -1, -1, 1, 0, -1)
+Vertex(1, -1, 1, 1, 1, -1)
+
+EndDraw()

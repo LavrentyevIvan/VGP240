@@ -1,1 +1,67 @@
-﻿  Pix.vcxproj -> C:\Users\ilavr\OneDrive\Desktop\La Salle College Classes Year 2\VGP240\Pix\x64\Debug\Pix.exe
+﻿  CmdLights.cpp
+  LightManager.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3477,32): error C2259: 'DirectionalLight': cannot instantiate abstract class
+C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\LightTypes.h(4,7): message : see declaration of 'DirectionalLight'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3477,32): message : due to following members:
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3477,32): message : 'X::Color Light::ComputeLightColor(const Vector3 &,const Vector3 &)': is abstract
+C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\Light.h(9,19): message : see declaration of 'Light::ComputeLightColor'
+C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\LightManager.cpp(37,20): message : see reference to function template instantiation 'std::unique_ptr<DirectionalLight,std::default_delete<DirectionalLight>> std::make_unique<DirectionalLight,,0>(void)' being compiled
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3477,35): error C2259: 'DirectionalLight': cannot instantiate abstract class
+C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\LightTypes.h(4,7): message : see declaration of 'DirectionalLight'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3477,35): message : due to following members:
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3477,35): message : 'X::Color Light::ComputeLightColor(const Vector3 &,const Vector3 &)': is abstract
+C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\Light.h(9,19): message : see declaration of 'Light::ComputeLightColor'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3477,32): error C2259: 'PointLight': cannot instantiate abstract class
+C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\LightTypes.h(15,7): message : see declaration of 'PointLight'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3477,32): message : due to following members:
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3477,32): message : 'X::Color Light::ComputeLightColor(const Vector3 &,const Vector3 &)': is abstract
+C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\Light.h(9,19): message : see declaration of 'Light::ComputeLightColor'
+C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\LightManager.cpp(47,20): message : see reference to function template instantiation 'std::unique_ptr<PointLight,std::default_delete<PointLight>> std::make_unique<PointLight,,0>(void)' being compiled
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3477,35): error C2259: 'PointLight': cannot instantiate abstract class
+C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\LightTypes.h(15,7): message : see declaration of 'PointLight'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3477,35): message : due to following members:
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3477,35): message : 'X::Color Light::ComputeLightColor(const Vector3 &,const Vector3 &)': is abstract
+C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\Light.h(9,19): message : see declaration of 'Light::ComputeLightColor'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3477,32): error C2259: 'SpotLight': cannot instantiate abstract class
+C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\LightTypes.h(30,7): message : see declaration of 'SpotLight'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3477,32): message : due to following members:
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3477,32): message : 'X::Color Light::ComputeLightColor(const Vector3 &,const Vector3 &)': is abstract
+C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\Light.h(9,19): message : see declaration of 'Light::ComputeLightColor'
+C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\LightManager.cpp(58,20): message : see reference to function template instantiation 'std::unique_ptr<SpotLight,std::default_delete<SpotLight>> std::make_unique<SpotLight,,0>(void)' being compiled
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3477,35): error C2259: 'SpotLight': cannot instantiate abstract class
+C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\LightTypes.h(30,7): message : see declaration of 'SpotLight'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3477,35): message : due to following members:
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\memory(3477,35): message : 'X::Color Light::ComputeLightColor(const Vector3 &,const Vector3 &)': is abstract
+C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\Light.h(9,19): message : see declaration of 'Light::ComputeLightColor'
+  LightTypes.cpp
+C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\X\Inc\XMath.h(509,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\X\Inc\XMath.h(509,24): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\X\Inc\XMath.h(510,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\X\Inc\XMath.h(510,24): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\LightTypes.h(46,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\LightTypes.cpp(19,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\LightTypes.cpp(52,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\LightTypes.cpp(90,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\LightTypes.cpp(102,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\LightTypes.cpp(128,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ModelManager.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(5837,21): error C2446: '==': no conversion from 'const _Ty' to 'std::unique_ptr<Model,std::default_delete<Model>>'
+          with
+          [
+              _Ty=ModelManager::GetModel::<lambda_1>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(5837,24): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(5851,36): message : see reference to function template instantiation '_InIt std::_Find_unchecked<std::unique_ptr<Model,std::default_delete<Model>>*,_Ty>(_InIt,const _InIt,const _Ty &)' being compiled
+          with
+          [
+              _InIt=std::unique_ptr<Model,std::default_delete<Model>> *,
+              _Ty=ModelManager::GetModel::<lambda_1>
+          ]
+C:\Users\ilavr\Desktop\LaSalle Classes\2024-Spring\VGP240\Pix\Pix\ModelManager.cpp(16,19): message : see reference to function template instantiation '_InIt std::find<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,ModelManager::GetModel::<lambda_1>>(_InIt,const _InIt,const ModelManager::GetModel::<lambda_1> &)' being compiled
+          with
+          [
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<std::unique_ptr<Model,std::default_delete<Model>>>>>,
+              _Ty=std::unique_ptr<Model,std::default_delete<Model>>
+          ]
+  WinMain.cpp
+  Generating Code...

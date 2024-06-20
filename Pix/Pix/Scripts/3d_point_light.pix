@@ -1,0 +1,149 @@
+SetResolution(500, 500, 1)
+ 
+SetViewport(50, 50, 400, 400)
+SetClipping(true)
+SetCullMode(back)
+ShowViewport(true)
+EnableDepth(true)
+
+float $camX = 0, 0.01
+float $camY = 2, 0.01
+float $camZ = -4, 0.01
+
+float $camDirX = 0, 0.01
+float $camDirY = -2, 0.01
+float $camDirZ = 5, 0.01
+
+float $lightPosX = 1.5, 0.01
+float $lightPosY = 2, 0.01
+float $lightPosZ = 0, 0.01
+
+float $rotX = 45, 0.1
+float $rotY = 45, 0.1
+float $rotZ = 45, 0.1
+
+float $attenC = 1, 0.01, 0, 1
+float $attenL = 0.1, 0.01, 0, 1
+float $attenQ = 0, 0.01, 0, 1
+
+SetCameraPosition($camX, $camY, $camZ)
+SetCameraDirection($camDirX, $camDirY, $camDirZ)
+
+SetLightAmbient(0.2, 0.2, 0.2)
+SetLightDiffuse(0.9, 0.9, 0.9)
+SetLightSpecular(0.3, 0.3, 0.3)
+// AddPointLight($lightPosX, $lightPosY, $lightPosZ, $attenC, $attenL, $attenQ)
+AddSpotLight($lightPosX, $lightPosY, $lightPosZ, 1, 0, 0 $attenC, $attenL, $attenQ, 30, 1)
+
+
+BeginDraw(triangle, true)
+
+// Ground
+Vertex(-2, 0, -2, 0.0, 0.0, 1.0)
+Vertex(-2, 0, 2, 0.0, 0.0, 1.0)
+Vertex(2, 0, 2, 0.0, 0.0, 1.0)
+Vertex(-2, 0, -2, 0.0, 0.0, 1.0)
+Vertex(2, 0, 2, 0.0, 0.0, 1.0)
+Vertex(2, 0, -2, 0.0, 0.0, 1.0)
+
+EndDraw()
+
+PushTranslation($lightPosX, $lightPosY, $lightPosZ)
+PushScaling(0.1, 0.1, 0.1)
+
+BeginDraw(triangle, true)
+
+Vertex(1, 0, -1, 1, 1, 1)
+Vertex(-1, 0, -1, 1, 1, 1)
+Vertex(0, 1, 0, 1, 1, 1)
+
+Vertex(-1, 0, -1, 1, 1, 1)
+Vertex(-1, 0, 1, 1, 1, 1)
+Vertex(0, 1, 0, 1, 1, 1)
+
+Vertex(-1, 0, 1, 1, 1, 1)
+Vertex(1, 0, 1, 1, 1, 1)
+Vertex(0, 1, 0, 1, 1, 1)
+
+Vertex(1, 0, 1, 1, 1, 1)
+Vertex(1, 0, -1, 1, 1, 1)
+Vertex(0, 1, 0, 1, 1, 1)
+
+Vertex(-1, 0, -1, 1, 1, 1)
+Vertex(1, 0, -1, 1, 1, 1)
+Vertex(0, -1, 0, 1, 1, 1)
+
+Vertex(1, 0, -1, 1, 1, 1)
+Vertex(1, 0, 1, 1, 1, 1)
+Vertex(0, -1, 0, 1, 1, 1)
+
+Vertex(1, 0, 1, 1, 1, 1)
+Vertex(-1, 0, 1, 1, 1, 1)
+Vertex(0, -1, 0, 1, 1, 1)
+
+Vertex(-1, 0, 1, 1, 1, 1)
+Vertex(-1, 0, -1, 1, 1, 1)
+Vertex(0, -1, 0, 1, 1, 1)
+
+EndDraw()
+
+PopMatrix()
+PopMatrix()
+
+PushTranslation(0, 1, 0)
+PushRotationZ($rotZ)
+PushRotationY($rotY)
+PushRotationX($rotX)
+PushScaling(0.5, 0.5, 0.5)
+
+BeginDraw(triangle, true)
+
+// Front
+Vertex(1, -1, 1, 0.5, 0, 0.5)
+Vertex(1, 1, 1, 0.5, 0, 0.5)
+Vertex(-1, 1, 1, 0.5, 0, 0.5)
+Vertex(1, -1, 1, 0.5, 0, 0.5)
+Vertex(-1, 1, 1, 0.5, 0, 0.5)
+Vertex(-1, -1, 1, 0.5, 0, 0.5)
+
+// Back
+Vertex(-1, -1, -1, 0.5, 0, 0.5)
+Vertex(-1, 1, -1, 0.5, 0, 0.5)
+Vertex(1, 1, -1, 0.5, 0, 0.5)
+Vertex(-1, -1, -1, 0.5, 0, 0.5)
+Vertex(1, 1, -1, 0.5, 0, 0.5)
+Vertex(1, -1, -1, 0.5, 0, 0.5)
+
+// Right
+Vertex(1, -1, -1, 0.5, 0, 0.5)
+Vertex(1, 1, -1, 0.5, 0, 0.5)
+Vertex(1, 1, 1, 0.5, 0, 0.5)
+Vertex(1, -1, -1, 0.5, 0, 0.5)
+Vertex(1, 1, 1, 0.5, 0, 0.5)
+Vertex(1, -1, 1, 0.5, 0, 0.5)
+
+// Left
+Vertex(-1, -1, 1, 0.5, 0, 0.5)
+Vertex(-1, 1, 1, 0.5, 0, 0.5)
+Vertex(-1, 1, -1, 0.5, 0, 0.5)
+Vertex(-1, -1, 1, 0.5, 0, 0.5)
+Vertex(-1, 1, -1, 0.5, 0, 0.5)
+Vertex(-1, -1, -1, 0.5, 0, 0.5)
+
+// Top
+Vertex(-1, 1, -1, 0.5, 0, 0.5)
+Vertex(-1, 1, 1, 0.5, 0, 0.5)
+Vertex(1, 1, 1, 0.5, 0, 0.5)
+Vertex(-1, 1, -1, 0.5, 0, 0.5)
+Vertex(1, 1, 1, 0.5, 0, 0.5)
+Vertex(1, 1, -1, 0.5, 0, 0.5)
+
+// Bottom
+Vertex(-1, -1, 1, 0.5, 0, 0.5)
+Vertex(-1, -1, -1, 0.5, 0, 0.5)
+Vertex(1, -1, -1, 0.5, 0, 0.5)
+Vertex(-1, -1, 1, 0.5, 0, 0.5)
+Vertex(1, -1, -1, 0.5, 0, 0.5)
+Vertex(1, -1, 1, 0.5, 0, 0.5)
+
+EndDraw()

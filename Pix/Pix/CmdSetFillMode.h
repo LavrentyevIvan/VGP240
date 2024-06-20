@@ -12,7 +12,7 @@ public:
 	const char* GetDescription() override
 	{
 		return
-			"SetColor(<fillmode>)\n"
+			"SetFillMode(<fillmode>)\n"
 			"\n"
 			"-Sets the fillmode to read between vertices (wireframe and filled).";
 	}

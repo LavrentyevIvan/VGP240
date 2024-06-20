@@ -180,6 +180,7 @@
     <ClCompile Include="CmdEndDraw.cpp" />
     <ClCompile Include="CmdLights.cpp" />
     <ClCompile Include="CmdMaterial.cpp" />
+    <ClCompile Include="CmdModel.cpp" />
     <ClCompile Include="CmdPopMatrix.cpp" />
     <ClCompile Include="CmdPushRotationX.cpp" />
     <ClCompile Include="CmdPushRotationY.cpp" />
@@ -196,6 +197,8 @@
     <ClCompile Include="CmdSetCullMode.cpp" />
     <ClCompile Include="CmdSetFillMode.cpp" />
     <ClCompile Include="CmdSetResolution.cpp" />
+    <ClCompile Include="CmdSetShadeMode.cpp" />
+    <ClCompile Include="CmdSetTexture.cpp" />
     <ClCompile Include="CmdSetViewport.cpp" />
     <ClCompile Include="CmdShowViewport.cpp" />
     <ClCompile Include="CmdVarFloat.cpp" />
@@ -215,6 +218,8 @@
     <ClCompile Include="Rasterizer.cpp" />
     <ClCompile Include="ScriptParser.cpp" />
     <ClCompile Include="TextEditor.cpp" />
+    <ClCompile Include="Texture.cpp" />
+    <ClCompile Include="TextureManager.cpp" />
     <ClCompile Include="VariableCache.cpp" />
     <ClCompile Include="Viewport.cpp" />
     <ClCompile Include="WinMain.cpp" />
@@ -234,6 +239,7 @@
     <ClInclude Include="CmdEndDraw.h" />
     <ClInclude Include="CmdLights.h" />
     <ClInclude Include="CmdMaterial.h" />
+    <ClInclude Include="CmdModel.h" />
     <ClInclude Include="CmdPopMatrix.h" />
     <ClInclude Include="CmdPushRotationX.h" />
     <ClInclude Include="CmdPushRotationY.h" />
@@ -250,6 +256,8 @@
     <ClInclude Include="CmdSetCullMode.h" />
     <ClInclude Include="CmdSetFillMode.h" />
     <ClInclude Include="CmdSetResolution.h" />
+    <ClInclude Include="CmdSetShadeMode.h" />
+    <ClInclude Include="CmdSetTexture.h" />
     <ClInclude Include="CmdSetViewport.h" />
     <ClInclude Include="CmdShowViewport.h" />
     <ClInclude Include="CmdVarFloat.h" />
@@ -271,6 +279,8 @@
     <ClInclude Include="Rasterizer.h" />
     <ClInclude Include="ScriptParser.h" />
     <ClInclude Include="TextEditor.h" />
+    <ClInclude Include="Texture.h" />
+    <ClInclude Include="TextureManager.h" />
     <ClInclude Include="VariableCache.h" />
     <ClInclude Include="Vector2.h" />
     <ClInclude Include="Vector3.h" />

@@ -78,6 +78,8 @@ X::Color SpotLight::ComputeLightColor(const Vector3& position, const Vector3& no
     float distToLight = MathHelper::Magnitude(dirToLight);
     dirToLight /= distToLight;
 
+    X::Color colorAmbient = mAmbient * mm->GetMaterialAmbient();
+
     Vector3 lightDirection = -dirToLight;
     float dirDot = MathHelper::Dot(lightDirection, mDirection);
 
@@ -89,7 +91,7 @@ X::Color SpotLight::ComputeLightColor(const Vector3& position, const Vector3& no
     float atten = 1.0f / (mAttenConst + (mAttenLinear + distToLight) + (mAttenQuad * distToLight * distToLight));
     float iL = X::Math::Clamp(atten, 0.0f, 1.0f);
 
-    X::Color colorAmbient = mAmbient * mm->GetMaterialAmbient() * iL;
+  
 
     float dot = MathHelper::Dot(dirToLight, normal);
     X::Color colorDiffuse = mDiffuse * X::Math::Max(dot, 0.0f) * mm->GetMaterialAmbient() * iL;

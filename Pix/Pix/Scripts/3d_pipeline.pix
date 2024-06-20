@@ -4,6 +4,7 @@ SetViewport(50, 50, 400, 400)
 SetClipping(true)
 SetCullMode(none)
 ShowViewport(true)
+EnableDepth(true)
 
 float $camX = 0
 float $camY = 0
@@ -13,19 +14,25 @@ float $camDirX = 0
 float $camDirY = 0
 float $camDirZ = 1
 
-float $rotY = 0
+float $rotX = 0 1
+float $rotY = 0 1
+float $rotZ = 0 1
+
+float $scaleX = 1
+float $scaleY = 1
+float $scaleZ = 1
 
 SetCameraPosition($camX, $camY, $camZ)
 SetCameraDirection($camDirX, $camDirY, $camDirZ)
 
 PushTranslation(0, 0, 0)
-PushRotationZ(-30)
+PushRotationZ($rotZ)
 PushRotationY($rotY)
-PushRotationX(0)
-PushScaling(1, 1, 1)
+PushRotationX($rotX)
+PushScaling($scaleX, $scaleY, $scaleZ)
+SetFillMode(solid)
 
 BeginDraw(triangle, true)
-
 // Front
 Vertex(-1, -1, 1, 0, 1, 0)
 Vertex(-1, 1, 1, 0, 1, 0)
@@ -43,3 +50,15 @@ Vertex(1, 1, 1, 1, 1, 0)
 Vertex(1, -1, 1, 1, 1, 0)
 
 EndDraw()
+
+
+
+
+
+
+
+
+
+
+
+

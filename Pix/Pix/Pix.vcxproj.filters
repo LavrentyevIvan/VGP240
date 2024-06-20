@@ -204,6 +204,21 @@
     <ClCompile Include="Model.cpp">
       <Filter>Graphics</Filter>
     </ClCompile>
+    <ClCompile Include="CmdSetShadeMode.cpp">
+      <Filter>Commands</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureManager.cpp">
+      <Filter>Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="CmdSetTexture.cpp">
+      <Filter>Commands</Filter>
+    </ClCompile>
+    <ClCompile Include="CmdModel.cpp">
+      <Filter>Commands</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TextEditor.h">
@@ -358,6 +373,21 @@
     </ClInclude>
     <ClInclude Include="Model.h">
       <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="CmdSetShadeMode.h">
+      <Filter>Commands</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureManager.h">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="CmdSetTexture.h">
+      <Filter>Commands</Filter>
+    </ClInclude>
+    <ClInclude Include="CmdModel.h">
+      <Filter>Commands</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

@@ -4,6 +4,8 @@
 #include "CmdSetResolution.h"
 #include "CmdSetColor.h"
 #include "CmdVarFloat.h"
+#include "CmdVarInt.h"
+#include "CmdVarBool.h"
 
 #include "CmdBeginDraw.h"
 #include "CmdAddVertex.h"
@@ -30,8 +32,14 @@
 #include "CmdPopMatrix.h"
 
 #include "CmdSetCullMode.h"
+#include "CmdSetShadeMode.h"
 
 #include "CmdMaterial.h"
+#include "CmdSetTexture.h"
+#include "CmdModel.h"
+#include "CmdSetCorrectUV.h"
+#include "CmdSetAddressMode.h"
+#include "CmdSetUseFilter.h"
 CommandDictionary* CommandDictionary::Get()
 {
 	static CommandDictionary sInstance;
@@ -56,12 +64,16 @@ CommandDictionary::CommandDictionary()
 	RegisterCommand<CmdSetCameraPosition>();
 	// Variable commands
 	RegisterCommand<CmdVarFloat>();
+	RegisterCommand<CmdVarBool>();
+	RegisterCommand<CmdVarInt>();
 	RegisterCommand<CmdPushRotationX>();
 	RegisterCommand<CmdPushRotationY>();
 	RegisterCommand<CmdPushRotationZ>();
 	RegisterCommand<CmdPushScaling>();
 	RegisterCommand<CmdPushTranslation>();
 	RegisterCommand<CmdPopMatrix>();
+	RegisterCommand<CmdModel>();
+	RegisterCommand<CmdSetTexture>();
 
 	//Lights
 	RegisterCommand<CmdSetLightAmbient>();
@@ -86,6 +98,10 @@ CommandDictionary::CommandDictionary()
 	RegisterCommand <CmdEndDraw>();
 	RegisterCommand <CmdSetFillMode>();
 	RegisterCommand <CmdSetCullMode>();
+	RegisterCommand <CmdSetShadeMode>();
+	RegisterCommand <CmdSetCorrectUV>();
+	RegisterCommand <CmdSetAddressMode>();
+	RegisterCommand <CmdSetUseFilter>();
 
 }
 
