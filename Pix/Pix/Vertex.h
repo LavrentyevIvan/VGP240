@@ -20,7 +20,7 @@ inline static Vector3 LerpPosition(const Vector3 a, const Vector3 b, float t, bo
 	if (toPixel)
 	{
 		pos.x = floorf(pos.x + 0.5f);
-		pos.y = floorf(pos.x + 0.5f);
+		pos.y = floorf(pos.y + 0.5f);
 	}
 	return pos;
 
@@ -51,7 +51,7 @@ inline static Vertex LerpVertex(const Vertex a, const Vertex b, float t, bool le
 	vertex.color = LerpColor(a.color, b.color, t);
 	if (lerpNorm)
 	{
-		vertex.posWorld = LerpPosition(a.pos, b.posWorld, t, false);
+		vertex.posWorld = LerpPosition(a.posWorld, b.posWorld, t, false);
 		vertex.norm = LerpNormal(a.norm, b.norm, t);
 	}
 	return vertex;

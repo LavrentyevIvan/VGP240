@@ -240,6 +240,9 @@
     <ClCompile Include="PostProcessing.cpp">
       <Filter>Graphics</Filter>
     </ClCompile>
+    <ClCompile Include="CmdPostProcessing.cpp">
+      <Filter>Commands</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TextEditor.h">
@@ -430,6 +433,9 @@
     </ClInclude>
     <ClInclude Include="PostProcessing.h">
       <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="CmdPostProcessing.h">
+      <Filter>Commands</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

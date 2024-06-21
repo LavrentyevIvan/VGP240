@@ -4,7 +4,7 @@
 class DirectionalLight : public Light
 {
 public:
-	X::Color ComputeLightColor(const Vector3& position, const Vector3& normal) const;
+	virtual X::Color ComputeLightColor(const Vector3& position, const Vector3& normal) const override;
 
 	void SetDirection(const Vector3& direction);
 private:
@@ -15,7 +15,7 @@ private:
 class PointLight : public Light
 {
 public:
-	X::Color ComputeLightColor(const Vector3& position, const Vector3& normal) const;
+	virtual X::Color ComputeLightColor(const Vector3& position, const Vector3& normal) const override;
 
 	void SetPosition(const Vector3& direction);
 	void SetAttenuation(float constant, float linear, float quadratic);
@@ -30,7 +30,7 @@ private:
 class SpotLight : public Light
 {
 public:
-	X::Color ComputeLightColor(const Vector3& position, const Vector3& normal) const;
+	virtual X::Color ComputeLightColor(const Vector3& position, const Vector3& normal) const override;
 
 	void SetPosition(const Vector3& position);
 	void SetDirection(const Vector3& direction);

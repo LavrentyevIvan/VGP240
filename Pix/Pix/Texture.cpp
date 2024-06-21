@@ -58,7 +58,7 @@ namespace
 		X::Color c = tex.GetPixel(uInt, vInt + 1) * uOpposite;
 		X::Color d = tex.GetPixel(uInt + 1, vInt + 1) * uRatio;
 
-		return (a + b) * vOpposite + (c + d) * uRatio;
+		return (a + b) * vOpposite + (c + d) * vRatio;
 
 	}
 }

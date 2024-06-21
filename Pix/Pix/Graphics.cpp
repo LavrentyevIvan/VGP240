@@ -7,6 +7,7 @@
 #include "DepthBuffer.h"
 #include "LightManager.h"
 #include "MaterialManager.h"
+#include "MatrixStack.h"
 
 void Graphics::NewFrame()
 {
@@ -17,4 +18,5 @@ void Graphics::NewFrame()
 	DepthBuffer::Get()->OnNewFrame();
 	LightManager::Get()->OnNewFrame();
 	MaterialManager::Get()->OnNewFrame();
+	MatrixStack::Get()->OnNewFrame();
 }

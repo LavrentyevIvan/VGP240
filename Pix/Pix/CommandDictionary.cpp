@@ -40,6 +40,8 @@
 #include "CmdSetCorrectUV.h"
 #include "CmdSetAddressMode.h"
 #include "CmdSetUseFilter.h"
+#include "CmdEnableDepth.h"
+#include "CmdPostProcessing.h"
 CommandDictionary* CommandDictionary::Get()
 {
 	static CommandDictionary sInstance;
@@ -102,7 +104,10 @@ CommandDictionary::CommandDictionary()
 	RegisterCommand <CmdSetCorrectUV>();
 	RegisterCommand <CmdSetAddressMode>();
 	RegisterCommand <CmdSetUseFilter>();
-
+	RegisterCommand <CmdEnableDepth>();
+	RegisterCommand <CmdPostProcessingBeginDraw>();
+	RegisterCommand <CmdPostProcessingEndDraw>();
+	RegisterCommand <CmdPostProcessingSetEffectType>();
 }
 
 TextEditor::LanguageDefinition CommandDictionary::GenerateLanguageDefinition()

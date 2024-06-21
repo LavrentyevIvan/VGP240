@@ -72,8 +72,8 @@ Vector3 MathHelper::TransformCoord(const Vector3& v, const Matrix4& m)
 	const float invW = CheckEqual(w, 0.0f) ? 1.0f : 1.0f / w;
 	return {
 		((v.x * m._11) + (v.y * m._21) + (v.z * m._31) + (1.0f * m._41))* invW,
-		((v.x * m._12) + (v.y * m._22) + (v.z * m._32) + (1.0f * m._41))* invW,
-		((v.x * m._13) + (v.y * m._23) + (v.z * m._33) + (1.0f * m._41))* invW
+		((v.x * m._12) + (v.y * m._22) + (v.z * m._32) + (1.0f * m._42))* invW,
+		((v.x * m._13) + (v.y * m._23) + (v.z * m._33) + (1.0f * m._43))* invW
 	};
 }
 

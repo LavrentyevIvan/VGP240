@@ -5,7 +5,7 @@
 LightManager* LightManager::Get()
 {
 	static LightManager sInstance;
-	return nullptr;
+	return &sInstance;
 }
 
 void LightManager::OnNewFrame()
